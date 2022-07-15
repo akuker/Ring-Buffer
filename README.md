@@ -1,3 +1,5 @@
+Note: Forked to use stdint.h instead of inttypes.h
+
 Ring-Buffer
 ===========
 
